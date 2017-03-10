@@ -1,0 +1,11 @@
+// test
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  cout << "I am groot" << endl;
+  system("pause");
+  return 0;
+}
